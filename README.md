@@ -3,4 +3,4 @@
 - 583021335-6 นาย ตุลธร ทองภัทธร
 - 583021361-5 นาย อภิสิทธิ์ ละครราช
 - 583021334-8 นางสาว ณัฐชยา ภักดีสังข์
-https://github.com/madword/Game_2560_Chopper
+- https://github.com/madword/Game_2560_Chopper
